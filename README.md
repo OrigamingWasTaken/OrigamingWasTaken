@@ -1,6 +1,6 @@
-⚬ Hi i'm Origaming! I am a Roblox and Minecraft Commands developper!\n
-⚬ Currently Working on a Minecraft Server!\n
-⚬ New to github!\n
+-  Hi i'm Origaming! I am a Roblox and Minecraft Commands developper!
+-  Currently Working on a Minecraft Server!
+-  New to github!
 
 <!---
 OrigamingWasTaken/OrigamingWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
