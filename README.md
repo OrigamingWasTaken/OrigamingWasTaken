@@ -10,6 +10,6 @@ My current active projects are:
 - [discord-dev-env](https://github.com/OrigamingWasTaken/discord-dev-env)
 - [neutralino-svelte](https://github.com/OrigamingWasTaken/neutralino-svelte)
 
-Feel free to contact me on Discord at `@origaming`.
+Feel free to contact me on Discord at `@origaming` or by email at `contact@origaming.ch`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamingWasTaken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
