@@ -11,4 +11,4 @@ My current active projects are:
 
 Feel free to contact me by email at `contact@origaming.ch`
 
-<a href="https://github.com/theja-vanka#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamingWasTaken&hide_border=false&theme=github_dark&layout=compact" /></a>
+<a href="https://github.com/theja-vanka#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamingWasTaken&border_color=3D444D&theme=github_dark&layout=compact" /></a>
