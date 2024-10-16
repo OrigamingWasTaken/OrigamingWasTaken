@@ -4,10 +4,7 @@ I'm Origaming (she/he) and I am a passionate fullstack developer! I'm currently 
 
 [![My Skills](https://skillicons.dev/icons?i=css,ts,html,svelte,js,python,lua,react,bash,nextjs,bun,nodejs)](https://skillicons.dev)
 
-My current active projects are:
-- [AppleBlox](https://github.com/OrigamingWasTaken/appleblox)
-- [ce-discord-bot](https://github.com/Communaute-Events/ce-discord-bot)
-- [neutralino-svelte](https://github.com/OrigamingWasTaken/neutralino-svelte)
+I'm currently working on [AppleBlox](https://github.com/OrigamingWasTaken/appleblox), a lightweight and fast launcher for Roblox.
 
 Feel free to contact me by email at `contact@origaming.ch`
 
