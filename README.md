@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Origaming (she/he) and I am a passionate fullstack developper! I'm currently using TypeScript, Bash, and Python, and hope to learn 🦀 Rust in the future!
+I'm Origaming (she/he) and I am a passionate fullstack developer! I'm currently using TypeScript, Bash, and Python, and hope to learn 🦀 Rust in the future!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,svelte,bash,nodejs,lua,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,ts,html,svelte,js,python,lua,react,bash,nextjs,bun,nodejs)](https://skillicons.dev)
 
 My current active projects are:
 - [AppleBlox](https://github.com/OrigamingWasTaken/appleblox)
@@ -11,4 +11,4 @@ My current active projects are:
 
 Feel free to contact me by email at `contact@origaming.ch`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamingWasTaken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/theja-vanka#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamingWasTaken&hide_border=false&theme=github_dark&layout=compact" /></a>
