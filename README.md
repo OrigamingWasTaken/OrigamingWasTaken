@@ -7,4 +7,5 @@ I'm Origaming (she/he) and I am a passionate fullstack developer! I'm currently 
 I'm currently working on [AppleBlox](https://github.com/OrigamingWasTaken/appleblox), a lightweight and fast launcher for Roblox.
 
 Feel free to contact me by email at `contact@origaming.ch`
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamingWasTaken&border_color=3D444D&theme=github_dark&layout=compact" />
